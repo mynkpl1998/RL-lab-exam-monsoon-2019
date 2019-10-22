@@ -1,0 +1,8 @@
+1. Download miniconda from via command "wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh"
+2. Install the above downloaded file via command "bash /path/to/downloaded/File"
+3. Activate the install miniconda "source /path/to/insalledminiconda"
+4. Create python3.6 using this command "conda create python -n rl-lab-exam python=3.6"
+4. Activate the environment "conda activate rl-lab-exam"
+5. Install all dependencies "pip install -r requirements.txt". I have shared the requirements.txt file. 
+6. Run the following -> python -m ipykernel install --user --name rl-lab-exam --display-name "rl-lab-exam"
+ 

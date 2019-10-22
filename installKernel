@@ -1,0 +1,1 @@
+python -m ipykernel install --user --name rl-lab-exam --display-name "rl-lab-exam"
